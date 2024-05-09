@@ -1,2 +1,2 @@
 # projects
-school projects(individual and team work)
+school projects(individual and team work) are listed below
