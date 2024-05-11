@@ -1,3 +1,9 @@
+PROPOSED SOLUTION FOR AN INVENTORY WEB APP FOR CANNABIS RETAIL IN CANADA
+MERN technologies were used for this project, and MongoDb for the database.
+
+
+/////// IMPORTANT : open .png files to display website screenshots. documentation is provided as well. code source is provided upon request
+
 --------------- english follows
 
 Nous étions partenaires avec le Centre d’Accès à la Technologie en Bio-innovation du collège la cité pour répondre au besoin croissant d'innovation dans la gestion d'inventaire des plantules de cannabis pour
